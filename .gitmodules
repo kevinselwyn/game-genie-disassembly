@@ -1,0 +1,6 @@
+[submodule "utilities/nesasm"]
+	path = utilities/nesasm
+	url = git://github.com/kevinselwyn/nesasm.git
+[submodule "utilities/img2chr"]
+	path = utilities/img2chr
+	url = git://github.com/kevinselwyn/img2chr.git
