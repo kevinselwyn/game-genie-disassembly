@@ -1,19 +1,19 @@
-#gamegenie
+# gamegenie
 
 Disassembly of the Game Genie for the NES
 
-##Building
+## Building
 
 ```
 make
 ```
 
-##Comparison
+## Comparison
 
 Because I don't want to deal with legal issues, the Game Genie ROM is not included in this repo.
 
 Download a copy of the Game Genie ROM to `orig/gamegenie.nes` to run a comparison on the re-compiled ROM.
 
-##Explanation
+## Explanation
 
-Read more about the process at [Game Genie Disassembly](https://medium.com/@kevinselwyn/game-genie-disassembly-c099d2033238#.ijea2f31b).
+Read more about the process at [Game Genie Disassembly](https://www.kevinselwyn.com/posts/game-genie-disassembly/).
